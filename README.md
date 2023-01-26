@@ -37,7 +37,8 @@ print("columns",len(df.axes[1]))
 
 ## OUTPUT:
 
-![Screenshot (66)](https://user-images.githubusercontent.com/118361409/214375052-1db156cb-1417-49eb-ba79-934815bc1f35.png)
+![Screenshot (113)](https://user-images.githubusercontent.com/118361409/214818602-ea0f3168-5dbe-4200-b857-f88183b1bc37.png)
+
 
 ## RESULT:
 Thus a python program is written to read the contents of a CSV file.
